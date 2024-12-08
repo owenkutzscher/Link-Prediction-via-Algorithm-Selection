@@ -1,0 +1,16 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore all numbered data directories
+01-network-data/*
+02-predictor-data/*
+03-normalized-data/*
+04-edgenonedge-data/*
+05-edge-metadata/*
+saved-figures/*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment
+venv/
