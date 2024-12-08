@@ -4,6 +4,6 @@ Training a ML model to pick the best edge prediction algorithm to use on differe
 
 For a summary of this project see the pdf document: 'Final Project Paper CSCI 3352 - Owen Kutzscher'
 
-To run this code, go to _04_using_3_data_sets and click through the cells. If you are interested in how any of the sub-functions work, go to any of the _01, _02, _03 files to see them in more detail.
+To run this code, go to _04_using_3_data_sets and click through the cells. If you are interested in how any of the sub-functions work, go to any of the _01, _02, _03 files to see them in more detail. Start by running the _04 code becuase it contains code to make folders which are essential to the running of the project
 
 To downlaod the data follow the instructions here: https://github.com/Aghasemian/OptimalLinkPrediction
